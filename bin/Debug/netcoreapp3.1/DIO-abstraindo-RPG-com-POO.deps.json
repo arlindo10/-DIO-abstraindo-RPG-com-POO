@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DIO-abstraindo-RPG-com-POO/1.0.0": {
+        "runtime": {
+          "DIO-abstraindo-RPG-com-POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIO-abstraindo-RPG-com-POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

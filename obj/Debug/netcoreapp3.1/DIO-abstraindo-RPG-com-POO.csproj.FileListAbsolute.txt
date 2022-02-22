@@ -1,0 +1,13 @@
+C:\Users\arlin\Documents\Dev\DIO-abstraindo-RPG-com-POO\bin\Debug\netcoreapp3.1\DIO-abstraindo-RPG-com-POO.exe
+C:\Users\arlin\Documents\Dev\DIO-abstraindo-RPG-com-POO\bin\Debug\netcoreapp3.1\DIO-abstraindo-RPG-com-POO.deps.json
+C:\Users\arlin\Documents\Dev\DIO-abstraindo-RPG-com-POO\bin\Debug\netcoreapp3.1\DIO-abstraindo-RPG-com-POO.runtimeconfig.json
+C:\Users\arlin\Documents\Dev\DIO-abstraindo-RPG-com-POO\bin\Debug\netcoreapp3.1\DIO-abstraindo-RPG-com-POO.runtimeconfig.dev.json
+C:\Users\arlin\Documents\Dev\DIO-abstraindo-RPG-com-POO\bin\Debug\netcoreapp3.1\DIO-abstraindo-RPG-com-POO.dll
+C:\Users\arlin\Documents\Dev\DIO-abstraindo-RPG-com-POO\bin\Debug\netcoreapp3.1\DIO-abstraindo-RPG-com-POO.pdb
+C:\Users\arlin\Documents\Dev\DIO-abstraindo-RPG-com-POO\obj\Debug\netcoreapp3.1\DIO-abstraindo-RPG-com-POO.csprojAssemblyReference.cache
+C:\Users\arlin\Documents\Dev\DIO-abstraindo-RPG-com-POO\obj\Debug\netcoreapp3.1\DIO-abstraindo-RPG-com-POO.AssemblyInfoInputs.cache
+C:\Users\arlin\Documents\Dev\DIO-abstraindo-RPG-com-POO\obj\Debug\netcoreapp3.1\DIO-abstraindo-RPG-com-POO.AssemblyInfo.cs
+C:\Users\arlin\Documents\Dev\DIO-abstraindo-RPG-com-POO\obj\Debug\netcoreapp3.1\DIO-abstraindo-RPG-com-POO.csproj.CoreCompileInputs.cache
+C:\Users\arlin\Documents\Dev\DIO-abstraindo-RPG-com-POO\obj\Debug\netcoreapp3.1\DIO-abstraindo-RPG-com-POO.dll
+C:\Users\arlin\Documents\Dev\DIO-abstraindo-RPG-com-POO\obj\Debug\netcoreapp3.1\DIO-abstraindo-RPG-com-POO.pdb
+C:\Users\arlin\Documents\Dev\DIO-abstraindo-RPG-com-POO\obj\Debug\netcoreapp3.1\DIO-abstraindo-RPG-com-POO.genruntimeconfig.cache
